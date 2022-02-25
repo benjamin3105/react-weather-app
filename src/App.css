@@ -7,6 +7,9 @@
 h1 {
   font-size: 30px;
 }
+h3 {
+  font-size: 20px;
+}
 .br-3 {
   border-radius: 3px;
   transition: all .3s ease-in-out 0s;
